@@ -1,44 +1,38 @@
 [
   {
-    "id": 1,
-    "title": "1. pád",
-    "subtitle": "KDO? CO?",
-    "end": "",
-  },
-  {
     "id": 2,
     "title": "2. pád",
     "subtitle": "bez KOHO? ČEHO?",
-    "end": "a",
+    "end": "a"
   },
   {
     "id": 3,
     "title": "3. pád",
     "subtitle": "KOMU? ČEMU?",
-    "end": "ovi",
+    "end": "ovi"
   },
   {
     "id": 4,
     "title": "4. pád",
     "subtitle": "KOHO? CO?",
-    "end": "a",
+    "end": "a"
   },
   {
     "id": 5,
     "title": "5. pád",
     "subtitle": "OSLOVUJEME, VOLÁME",
-    "end": "e",
+    "end": "e"
   },
   {
     "id": 6,
     "title": "6. pád",
     "subtitle": "o KOM, o ČEM?",
-    "end": "ovi",
+    "end": "ovi"
   },
   {
     "id": 7,
     "title": "7. pád",
     "subtitle": "s KÝM? s ČÍM?",
-    "end": "em",
+    "end": "em"
   },
 ]

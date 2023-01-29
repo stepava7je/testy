@@ -1,20 +1,44 @@
 [
   {
-    "userId": 1,
     "id": 1,
-    "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-    "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+    "title": "1. pád",
+    "subtitle": "KDO? CO?",
+    "end": "",
   },
   {
-    "userId": 1,
     "id": 2,
-    "title": "qui est esse",
-    "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+    "title": "2. pád",
+    "subtitle": "bez KOHO? ČEHO?",
+    "end": "a",
   },
   {
-    "userId": 1,
     "id": 3,
-    "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
-    "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+    "title": "3. pád",
+    "subtitle": "KOMU? ČEMU?",
+    "end": "ovi",
+  },
+  {
+    "id": 4,
+    "title": "4. pád",
+    "subtitle": "KOHO? CO?",
+    "end": "a",
+  },
+  {
+    "id": 5,
+    "title": "5. pád",
+    "subtitle": "OSLOVUJEME, VOLÁME",
+    "end": "e",
+  },
+  {
+    "id": 6,
+    "title": "6. pád",
+    "subtitle": "o KOM, o ČEM?",
+    "end": "ovi",
+  },
+  {
+    "id": 7,
+    "title": "7. pád",
+    "subtitle": "s KÝM? s ČÍM?",
+    "end": "em",
   },
 ]
